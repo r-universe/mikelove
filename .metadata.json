@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "DESeq2"
+  },
+  {
+    "package": "fishpond"
+  },
+  {
+    "package": "tximeta"
+  },
+  {
+    "package": "tximport"
+  }
+]
